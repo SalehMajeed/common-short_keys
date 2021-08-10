@@ -1,6 +1,6 @@
 [return to maine page](readme.md)
 
-# add initalize git in current folder
+# initalize git in current folder
 
 ```git
     git init

@@ -42,7 +42,7 @@
     alt + l + alt + o
 ```
 
-# open in live server
+# stop live server
 
 ```bash
     alt + l + alt + c
