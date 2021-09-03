@@ -55,7 +55,8 @@
     alt + f4
 ```
 
-# close all tabs 
+# close all tabs
+
 ```bash
     ctrl + k + ctrl + w
 ```
@@ -89,4 +90,12 @@
 ```bash
     ctrl + pgup or
     ctrl + pgdn
+```
+
+# create custom command
+
+```bash
+    alias 'command_name' = "your command"
+    eg.
+    alias folders = "mkdir new{01..50}"
 ```
