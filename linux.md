@@ -13,21 +13,26 @@
 ```
 
 # remove file
+
 ```bash
-    rm filename or 
+    rm filename or
     rm -r name (for removing folder)
 ```
 
 # create folder
+
 ```bash
     mkdir
 ```
 
 # move file
+
 ```bash
     mv filename destination-folder
 ```
+
 # install downloaded software
+
 ```bash
     sudo apt-get install ./name
 ```
@@ -79,4 +84,12 @@ sudo delgroup mysql
 That should get rid of everything. If you installed a third-party PPA in order to install MySQL then you'll need to remove that.---
 sudo add-apt-repository --remove ppa:theppayouused/ppa
 
+```
+
+# create custom command
+
+```bash
+    alias 'command_name' = "your command"
+    eg.
+    alias folders = "mkdir new{01..50}"
 ```
