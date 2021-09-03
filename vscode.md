@@ -91,11 +91,3 @@
     ctrl + pgup or
     ctrl + pgdn
 ```
-
-# create custom command
-
-```bash
-    alias 'command_name' = "your command"
-    eg.
-    alias folders = "mkdir new{01..50}"
-```
