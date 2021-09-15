@@ -27,3 +27,18 @@
 ```bash
     ctrl + d
 ```
+
+# go to url bar
+```bash
+    ctrl + l
+```
+
+# go to search bar
+```bash
+    /
+```
+
+# close current tab
+```bash
+    ctrl + w
+```
