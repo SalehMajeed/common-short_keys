@@ -93,3 +93,17 @@ sudo add-apt-repository --remove ppa:theppayouused/ppa
     eg.
     alias folders = "mkdir new{01..50}"
 ```
+
+# get process id on current port and kill it
+
+```bash
+    lsof -i -P -n | grep port_number
+    kill $(    lsof -i -P -n | grep port_number)
+
+```
+
+# force close vscode
+
+```bash
+    killall code
+```
