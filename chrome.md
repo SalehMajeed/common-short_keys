@@ -10,7 +10,13 @@
     ctrl + t
 ```
 
-# open incognito mode
+# open new window
+
+```bash
+    ctrl + n
+```
+
+# open new window in incognito mode
 
 ```bash
     ctrl + shift + n
@@ -29,16 +35,29 @@
 ```
 
 # go to url bar
+
 ```bash
     ctrl + l
 ```
 
 # go to search bar
+
 ```bash
     /
 ```
 
 # close current tab
+
 ```bash
     ctrl + w
+```
+
+# switch between tabs
+```bash
+    ctrl + (pg up or pg dn)
+```
+
+# go to previous or forwarded page
+```
+    alt + (left arrow or right arrow)
 ```
