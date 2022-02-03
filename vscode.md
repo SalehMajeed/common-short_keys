@@ -91,3 +91,15 @@
     ctrl + pgup or
     ctrl + pgdn
 ```
+
+# open closed tab
+
+```bash
+    ctrl + shift + t
+```
+
+# go to perticular line
+
+```bash
+    ctrl + g
+```
