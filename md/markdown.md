@@ -1,4 +1,4 @@
-[return to maine page](readme.md)
+[return to maine page](../readme.md)
 
 <! markdown use .md for file>
 <!-- Headings -->
@@ -99,7 +99,7 @@
     npm install
 
     npm start
-```m|
+```
 
 # for javascript
 ```javascript

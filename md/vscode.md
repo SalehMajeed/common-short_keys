@@ -1,4 +1,4 @@
-[return to maine page](readme.md)
+[return to maine page](../readme.md)
 
 # open markdown preview
 
@@ -90,4 +90,10 @@
 ```bash
     ctrl + pgup or
     ctrl + pgdn
+```
+
+# open closed tab
+
+```bash
+    ctrl + shift + t
 ```

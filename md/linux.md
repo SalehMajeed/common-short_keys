@@ -1,4 +1,4 @@
-[return to maine page](readme.md)
+[return to maine page](../readme.md)
 
 # list all the files and folders in current directory
 
@@ -47,13 +47,13 @@ ls -r | grep filename
 # Create Zip From folder
 
 ```bash
-zip -r file_name.zip folder_name
+    zip -r file_name.zip folder_name
 ```
 
 # Install mysql
 
 ```bash
-sudo apt-get install mysql-server
+    sudo apt-get install mysql-server
 ```
 
 # Remove mysql
@@ -61,28 +61,28 @@ sudo apt-get install mysql-server
 ```bash
 Stop the MySQL service:---
 
-sudo systemctl stop mysqld
+    sudo systemctl stop mysqld
 
 Purge MySQL, databases, and configurations: ---
-sudo apt purge mysql-server mysql-common mysql-server-core-* mysql-client-core-*
+    sudo apt purge mysql-server mysql-common mysql-server-core-* mysql-client-core-*
 
 Remove any additional database files:---
-sudo rm -rf /var/lib/mysql/
+    sudo rm -rf /var/lib/mysql/
 
 The folder where the configuration was and any stranglers:---
-sudo rm -rf /etc/mysql/
+    sudo rm -rf /etc/mysql/
 
 Clean the logs:---
-sudo rm -rf /var/log/mysql
+    sudo rm -rf /var/log/mysql
 
 Delete the user-generated during installation:---
-sudo deluser --remove-home mysql
+    sudo deluser --remove-home mysql
 
 Finally, get rid of the usergroup that was created during installation:---
-sudo delgroup mysql
+    sudo delgroup mysql
 
 That should get rid of everything. If you installed a third-party PPA in order to install MySQL then you'll need to remove that.---
-sudo add-apt-repository --remove ppa:theppayouused/ppa
+    sudo add-apt-repository --remove ppa:theppayouused/ppa
 
 ```
 
@@ -106,4 +106,17 @@ sudo add-apt-repository --remove ppa:theppayouused/ppa
 
 ```bash
     killall code
+```
+
+# switching tab
+
+```
+    ctrl + alt + tab or
+    alt + tab
+```
+
+# switch to desktop
+
+```
+    ctrl + alt + (up or down arrow)
 ```

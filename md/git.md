@@ -1,4 +1,4 @@
-[return to maine page](readme.md)
+[return to maine page](../readme.md)
 
 # initalize git in current folder
 

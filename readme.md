@@ -4,12 +4,18 @@
    window-key + arrow(up,down,left,right)
 ```
 
-[git commands](git.md)
+[git commands](./md/git.md)
 
-[linux commands](linux.md)
+[linux commands](./md/linux.md)
 
-[vscode commands](vscode.md)
+[vscode commands](./md/vscode.md)
 
-[chrome commands](chrome.md)
+[chrome commands](./md/chrome.md)
 
-[markdown commands](markdown.md)
+[markdown commands](./md/markdown.md)
+
+[mongo db](./md/mongodb.md)
+
+[postgresql](./md/postgres.md)
+
+[youtube-dl](./md/youtube-dl.md)

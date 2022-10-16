@@ -1,3 +1,5 @@
+[return to maine page](../readme.md)
+
 # install mongodb
 
 ```c

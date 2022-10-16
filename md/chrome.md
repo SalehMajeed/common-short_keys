@@ -1,3 +1,5 @@
+[return to maine page](../readme.md)
+
 # open all recently closed tabs
 
 ```bash
@@ -53,11 +55,19 @@
 ```
 
 # switch between tabs
+
 ```bash
     ctrl + (pg up or pg dn)
 ```
 
 # go to previous or forwarded page
+
 ```
     alt + (left arrow or right arrow)
+```
+
+# open link in new tab
+
+```
+    ctrl + left click
 ```
